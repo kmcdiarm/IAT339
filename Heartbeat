@@ -1,3 +1,6 @@
+// the Blink assignment was used as a base code
+// references for how to program the LED was found from https://adafruit.github.io/Adafruit_NeoPixel/html/class_adafruit___neo_pixel.html?fbclid=IwAR1UDsme-4_292aeKTcsn_KWpcX3UYyP7WASRsBBRmixHn8-3_VIQKVnr6k
+
 #include <Adafruit_NeoPixel.h>
 Adafruit_NeoPixel dot = Adafruit_NeoPixel(1,8);
 
